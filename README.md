@@ -7,10 +7,10 @@ Run the handwriting.ipynb file in jupyter notebook.
 **DATASET: ** http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 
 ## Requirement
-tensorflow
-numpy
-keras
-pandas
-opencv
-pickle
+* tensorflow
+* numpy
+* keras
+* pandas
+* opencv
+* pickle
 
