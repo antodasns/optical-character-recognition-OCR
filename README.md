@@ -6,6 +6,8 @@ Run the handwriting.ipynb file in jupyter notebook.
 
 **DATASET: ** http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 
+*create a dataset folder and paste the extracted dataset there.*
+
 ## Requirement
 * tensorflow
 * numpy
